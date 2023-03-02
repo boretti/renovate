@@ -219,6 +219,7 @@ const repoGroups = {
   'telus-tds': 'https://github.com/telusdigital/tds',
   'telus-tds-core': 'https://github.com/telus/tds-core',
   'theme-ui': 'https://github.com/system-ui/theme-ui',
+  tiptap: 'https://github.com/ueberdosis/tiptap',
   treat: 'https://github.com/seek-oss/treat',
   trpc: 'https://github.com/trpc/trpc',
   tsoa: 'https://github.com/lukeautry/tsoa',
